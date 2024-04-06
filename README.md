@@ -20,6 +20,7 @@ Total depth percentage = z / mean(x, y) = 2 * z / (x + y) (43--79)
 
 ### 6) Table
 Width of top of diamond relative to widest point (43--95)
+
 ![edu_depth-1](https://github.com/shwetha-ravindra/Random-Forest-Regression/assets/166117057/96b340f3-8276-4ff7-ad9b-82e21fd5c919)
 
 ### 7) X
